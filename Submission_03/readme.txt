@@ -2,7 +2,7 @@ Link to unlisted youtube video:
 https://youtu.be/QejwTlnNnKE
 
 Two public link to the Concept Map (anyone on the internet can view without login):
-PDF: 
+PDF: https://github.com/Labiba-Tasfiya/CSE707/blob/main/Submission_03/CSE707drawio.pdf
 
 Native/original format: 
 https://app.diagrams.net/#G1M8OQ5MozsuqkjK-JIjGsyoHUMSEh3WW-

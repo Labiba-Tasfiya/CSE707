@@ -10,7 +10,7 @@ computing system with task allocation using machine learning
 
 
 Paper presentation (anyone can view without login):
-
+https://docs.google.com/presentation/d/1H3npTfwL81MDSOjA5VaQgLIwbPxcxo-ufBWoSDrGsqU/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 05 January 2023
